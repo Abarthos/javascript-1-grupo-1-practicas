@@ -73,7 +73,6 @@ function ejercicio5(a) {
   console.log("La palabra sin espacios es:",sin_espacio,"\n");
 }
 
-// LLamado de funciones
 function main() {
   console.log("Respuesta del ejercicio 1:");
   console.log("El factorial de",num,"es:",ejercicio1(num),"\n");
